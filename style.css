@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(255, 214, 228);
+}
+
+header{
+background-color: rgb(255, 109, 158);
+color: black;
+border-radius: 40px;
+margin: 0px;
+padding: 25px;
+
+}
+a{
+    color: white;
+}
